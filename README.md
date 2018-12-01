@@ -1,4 +1,4 @@
-# Django Celery Example
+
 
 Example used in the blog post [How to Use Celery and RabbitMQ with Django](https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html?utm_source=github&utm_medium=repository)
 
@@ -31,3 +31,6 @@ rabbitmq-server
 ```
 
 For more info see the Blog post.
+=======
+# django-celery-rabbitmq
+>>>>>>> 4ae46c479869ecf836a19ea1d96c40c723fe9a4f
